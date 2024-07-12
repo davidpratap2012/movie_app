@@ -1,0 +1,8 @@
+# Ignore the secrets.toml file
+secrets.toml
+
+# Ignore other files or directories
+__pycache__/
+*.pyc
+.DS_Store
+.env
